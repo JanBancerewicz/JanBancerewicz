@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: bancerewiczj@gmail.com
 
-- 😀 A Dad joke for you: "Why do programmers prefer dark mode?" - Because light attracts bugs. 
+- 😀 A cool joke for you: "Why do programmers prefer dark mode?" - Because light attracts bugs. 
 
 
 <h3 align="left">Languages and Tools:</h3>
