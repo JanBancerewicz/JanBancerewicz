@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jan Bancerewicz</h1>
 
-<h3 align="center">A passionate freelancer, programmer technician, PHP, Java and C# developer from Poland</h3>
+<h3 align="center">A passionate freelancer, programmer technician, PHP, Java and C++ developer from Poland</h3>
 
 
 - 📫 How to reach me: bancerewiczj@gmail.com
