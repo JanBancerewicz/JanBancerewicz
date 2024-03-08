@@ -33,8 +33,6 @@
 <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="dotnet" width="40" height="40"/> </a>
 <a href="https://www.android.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="40" height="40"/> </a>
 
-https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png
-
 
 
 </p>
