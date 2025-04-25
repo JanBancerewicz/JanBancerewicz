@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jan Bancerewicz</h1>
 
-<h3 align="center">A passionate freelancer, programmer technician, PHP, Java and C++ developer from Poland</h3>
+<h3 align="center">A passionate freelancer, programmer technician, PHP, Java and C++ developer from Gdansk, Poland</h3>
 
 
 - 📫 How to reach me: bancerewiczj@gmail.com
-
-- 😀 A cool joke for you: "Why do programmers prefer dark mode?" - Because light attracts bugs. 
 
 
 <h3 align="left">Languages and Tools:</h3>
