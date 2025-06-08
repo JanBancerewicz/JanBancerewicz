@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jan Bancerewicz</h1>
 
-<h3 align="center">Passionate freelancer and graduate Programmer Technician, currently studying Computer Science at Gdańsk University of Technology. PHP, Java, and C++ developer</h3>
+<h3 align="center">Passionate freelancer and graduate Programmer Technician, currently studying Computer Science at Gdańsk University of Technology. PHP, Java, and C# developer</h3>
 
 
 - 📫 How to reach me: bancerewiczj@gmail.com
